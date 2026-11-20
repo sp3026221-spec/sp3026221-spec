@@ -1,28 +1,43 @@
-Hello, I'm Satyabrata! 👋
+👋 Hi, I'm Satyabrata!
 
-Aspiring Python Developer 🐍
+🐍 Aspiring Python Developer
 
-I'm learning programming and building projects to improve my skills.
+I'm learning Python, building practical projects, and improving my programming skills every day.
 
-🚀 My Skills
+🚀 About Me
+
+- 🌱 Learning Python programming.
+- 💻 Building real-world beginner projects.
+- 📚 Exploring Object-Oriented Programming.
+- 🎯 Working towards becoming a software developer.
+
+🛠️ Technologies
 
 - Python
 - Git
 - GitHub
-- Programming Fundamentals
+- JSON
+- VS Code
 
 💻 My Projects
 
-- Python Calculator
-- Number Guessing Game
-- Student Management System
-- Expense Tracker
+Project| Description
+Python Calculator| Basic calculations
+Number Guessing Game| Random numbers and loops
+Student Management| Student records
+Expense Tracker| Expense management
+Expense Tracker V2| Search, delete and JSON storage
 
-🎯 My Goals
+📈 Current Learning Goals
 
-- Improve my Python skills
-- Learn Artificial Intelligence
-- Build useful software projects
-- Become a skilled software developer
+- Advanced Python
+- Object-Oriented Programming
+- File Handling
+- APIs and Databases
+- Software Development
 
-Learning something new every day! 🌱
+🎯 My Mission
+
+Learn continuously, build useful projects, and become a skilled software developer.
+
+Thanks for visiting my profile! 🚀
