@@ -1,16 +1,28 @@
-## Hi there 👋
+Hello, I'm Satyabrata! 👋
 
-<!--
-**sp3026221-spec/sp3026221-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Python Developer 🐍
 
-Here are some ideas to get you started:
+I'm learning programming and building projects to improve my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 My Skills
+
+- Python
+- Git
+- GitHub
+- Programming Fundamentals
+
+💻 My Projects
+
+- Python Calculator
+- Number Guessing Game
+- Student Management System
+- Expense Tracker
+
+🎯 My Goals
+
+- Improve my Python skills
+- Learn Artificial Intelligence
+- Build useful software projects
+- Become a skilled software developer
+
+Learning something new every day! 🌱
